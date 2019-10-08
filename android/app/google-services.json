@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "73747840490",
+    "firebase_url": "https://lojaflutter-jtc.firebaseio.com",
+    "project_id": "lojaflutter-jtc",
+    "storage_bucket": "lojaflutter-jtc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73747840490:android:819763e3667cbbf6",
+        "android_client_info": {
+          "package_name": "com.kintschev.loja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73747840490-vc6fpu8top2m7s5d40nr0jgu9oad34p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2jgjpjuy4GGG0Y-EDt6RBJUiAnUUNFkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73747840490-vc6fpu8top2m7s5d40nr0jgu9oad34p2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
