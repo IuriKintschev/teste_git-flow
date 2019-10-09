@@ -1,5 +1,5 @@
 # Git - flow
 
-A new project.
+A new flutter project.
 
 ## Iniciando com git flow
