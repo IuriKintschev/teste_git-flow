@@ -2,7 +2,8 @@
 
 A new flutter project.
 
-hotfix para testar a divergencia
+hotfix feito com master
 
+testando com a feature agora 
 
 ## Iniciando com git flow
