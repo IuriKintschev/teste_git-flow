@@ -2,6 +2,6 @@
 
 teste de divergencia
 
-push do hotfix
+agora inserindo a feature
 
 ## Iniciando com git flow
